@@ -5,4 +5,5 @@ This project contains a particle that collides with the wall either in an elasti
 To run:
 
 make
+
 ./game
